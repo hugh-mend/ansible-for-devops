@@ -8,7 +8,7 @@ roles:
 - name: geerlingguy.elasticsearch-curator
   version: 2.1.0
 - name: geerlingguy.kibana
-  version: 4.0.0
+  version: 4.0.2
 - name: geerlingguy.logstash
   version: 5.1.0
 - name: geerlingguy.filebeat
